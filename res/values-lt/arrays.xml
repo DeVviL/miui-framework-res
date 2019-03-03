@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Namų</item>
+        <item>Darbovietės</item>
+        <item>Kitas</item>
+        <item>Sukurti</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Darbovietės</item>
+        <item>Kitas</item>
+        <item>Sukurti</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Namų</item>
+        <item>Mobilus</item>
+        <item>Darbovietės</item>
+        <item>Darbovietės faksas</item>
+        <item>Namų faksas</item>
+        <item>Gaviklis</item>
+        <item>Kitas</item>
+        <item>Sukurti</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Namų</item>
+        <item>Darbovietės</item>
+        <item>Kitas</item>
+        <item>Sukurti</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+        <item>com.baidu.map.location</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Namų</item>
+        <item>Darbovietės</item>
+        <item>Kitas</item>
+        <item>Sukurti</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Bandykite dar kartą</item>
+        <item></item>
+        <item></item>
+        <item>Pridėkite pirštą prie jutiklio</item>
+        <item></item>
+        <item>Pridėkite pirštą prie jutiklio</item>
+        <item>Pridėkite pirštą prie jutiklio</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pridėkite pirštą prie jutiklio</item>
+        <item>Pridėkite pirštą prie jutiklio</item>
+        <item>Pernelyg greitai! Nepavyko atpažinti piršto atspaudo</item>
+        <item>Dar kartą pridėkite pirštą</item>
+        <item>Atitraukite ir vėl pridėkite pirštą prie jutiklio</item>
+        <item>Palaikykite pirštą ant jutiklio truputėlį ilgiau</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Truputį pajudinkite pirštą</item>
+        <item>Šio piršto atpaudas jau pridėtas</item>
+    </string-array>
+</resources>

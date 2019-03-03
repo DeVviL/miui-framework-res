@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашній</item>
+        <item>Мобильный</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+        <item>com.baidu.map.location</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Створити</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Прикладіть палець до сканера</item>
+        <item></item>
+        <item></item>
+        <item>Прикладіть палець до сканера</item>
+        <item></item>
+        <item>Прикладіть палець до сканера</item>
+        <item>Прикладіть палець до сканера</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Прикладіть палець до сканера</item>
+        <item>Прикладіть палець до сканера</item>
+        <item>Занадто швидко, не вдалося розпізнати відбиток</item>
+        <item>Прикладіть палець і спробуйте ще раз</item>
+        <item>Прикладіть палець до сканера и повторите попытку</item>
+        <item>Утримуйте палець довше</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Трохи перемістіть палець</item>
+        <item>Цей відбиток вже доданий</item>
+    </string-array>
+</resources>

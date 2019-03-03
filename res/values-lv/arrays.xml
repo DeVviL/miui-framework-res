@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Mājas</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Mājas</item>
+        <item>Mobilais</item>
+        <item>Darbā</item>
+        <item>Darba fakss</item>
+        <item>Mājas fakss</item>
+        <item>Peidžers</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Mājas</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+        <item>com.baidu.map.location</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Mājas</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Mēģiniet vēlreiz</item>
+        <item></item>
+        <item></item>
+        <item>Piespiediet pirkstu pie skanera</item>
+        <item></item>
+        <item>Piespiediet pirkstu pie skanera</item>
+        <item>Piespiediet pirkstu pie skanera</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Piespiediet pirkstu pie skanera</item>
+        <item>Piespiediet pirkstu pie skanera</item>
+        <item>Pārāk ātri, neizdevās atpazīt pirksta nospiedumu</item>
+        <item>Pielieciet pirkstu un mēģiniet vēlreiz</item>
+        <item>Pielieciet pirkstu pie skanera un mēģiniet vēlreiz</item>
+        <item>Turiet pirkstu ilgāk</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Nedaudz pārvietojiet pirkstu</item>
+        <item>Šis pirksta nospiedums ir jau pievienots</item>
+    </string-array>
+</resources>

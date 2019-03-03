@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Eigene</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo!</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Eigene</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Privat</item>
+        <item>Mobil</item>
+        <item>Geschäftlich</item>
+        <item>Fax (geschäftl.)</item>
+        <item>Fax (privat)</item>
+        <item>Pager</item>
+        <item>Andere</item>
+        <item>Eigene</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Eigene</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+        <item>com.baidu.map.location</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Eigene</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Nochmal versuchen</item>
+        <item></item>
+        <item></item>
+        <item>Den Fingerabdruck-Scanner vollständig abdecken</item>
+        <item></item>
+        <item>Den Fingerabdruck-Scanner vollständig abdecken</item>
+        <item>Den Fingerabdruck-Scanner vollständig abdecken</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Den Fingerabdruck-Scanner vollständig abdecken</item>
+        <item>Den Fingerabdruck-Scanner vollständig abdecken</item>
+        <item>Zu schnell! Der Fingerabdruck konnte nicht erkannt werden</item>
+        <item>Verschieben Sie Ihren Finger etwas und versuchen Sie es erneut</item>
+        <item>Heben Sie Ihren Finger an und legen Sie den erneut auf den Scanner</item>
+        <item>Halten Sie Ihren Finger etwas länger auf dem Scanner</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
+    </string-array>
+</resources>
