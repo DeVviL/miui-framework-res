@@ -497,6 +497,11 @@
         <item>Move your finger slightly</item>
         <item>This fingerprint has been added, use a different finger</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_4d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_50">false</item>
+    <item type="array" name="APKTOOL_DUMMY_51">false</item>
     <string-array name="app_ops_labels">
         <item>Trying to access location</item>
         <item>Trying to access location</item>
@@ -559,9 +564,4 @@
         <item>Trying to delete call log</item>
         <item>Trying to turn on mobile data</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_4d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_4e">false</item>
-    <item type="array" name="APKTOOL_DUMMY_4f">false</item>
-    <item type="array" name="APKTOOL_DUMMY_50">false</item>
-    <item type="array" name="APKTOOL_DUMMY_51">false</item>
 </resources>

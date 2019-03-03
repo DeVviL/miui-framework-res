@@ -1483,9 +1483,9 @@ Lai atspējotu bloķēšanu, nospiediet un turiet pogu \"Nesen atvērts\"."</str
     <string name="permission_remember_choice">Atcerieties izvēli</string>
     <string name="permission">Atļaujas</string>
     <string name="pinpuk_attempts">Atlikuši mēģinājumi:</string>
+    <string name="usb_charging_notification_title">USB savienojums tiek izmantots šīs ierīces uzlādei</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="tethered_notification_no_device_message">Nav ne vienas pievienotas ierīces</string>
     <string name="tethered_notification_one_device_message">%1$s pievienotas ierīces</string>
     <string name="tethered_notification_multi_device_message">%1$s pievienotas ierīces</string>
-    <string name="usb_charging_notification_title">USB savienojums tiek izmantots šīs ierīces uzlādei</string>
 </resources>

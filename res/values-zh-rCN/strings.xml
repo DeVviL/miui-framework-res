@@ -1605,9 +1605,9 @@
     <string name="lock_to_app_description_accessible">"固定屏幕后，设备会一直显示某一个屏幕。
 
 要取消固定屏幕，请同时触摸并按住“桌面键”和“电源键”。"</string>
+    <string name="usb_charging_notification_title">正在通过 USB 充电</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="tethered_notification_no_device_message">没有设备已连接。</string>
     <string name="tethered_notification_one_device_message">%1$s个设备已连接。</string>
     <string name="tethered_notification_multi_device_message">%1$s个设备已连接。</string>
-    <string name="usb_charging_notification_title">正在通过 USB 充电</string>
 </resources>

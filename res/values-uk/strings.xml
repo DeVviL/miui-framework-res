@@ -1507,9 +1507,9 @@
     <string name="permission">Дозволи</string>
     <string name="pinpuk_attempts">"
 Залишилося спроб:"</string>
+    <string name="usb_charging_notification_title">Підключено в режимі зарядки</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="tethered_notification_no_device_message">Немає підключених пристроїв</string>
     <string name="tethered_notification_one_device_message">Підключених пристроїв: %1$s</string>
     <string name="tethered_notification_multi_device_message">Підключених пристроїв: %1$s</string>
-    <string name="usb_charging_notification_title">Підключено в режимі зарядки</string>
 </resources>

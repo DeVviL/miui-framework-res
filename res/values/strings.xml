@@ -1736,17 +1736,6 @@ Battery saver turns off automatically when your device is charging."</string>
     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
     <string name="ellipsis">…</string>
-    <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
-    <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
-
-To unpin, press and hold Home and the Power button at the same time."</string>
-    <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
-
-To unpin, press and hold Home and the Power button at the same time."</string>
-    <string name="permission_remember_choice">Remember</string>
-    <string name="permission">Permission</string>
-    <string name="pinpuk_attempts">"
-Attempts Remaining :"</string>
     <item type="string" name="APKTOOL_DUMMY_6a5">false</item>
     <item type="string" name="APKTOOL_DUMMY_6a6">false</item>
     <item type="string" name="APKTOOL_DUMMY_6a7">false</item>
@@ -1819,6 +1808,13 @@ Attempts Remaining :"</string>
     <item type="string" name="APKTOOL_DUMMY_6ea">false</item>
     <item type="string" name="APKTOOL_DUMMY_6eb">false</item>
     <item type="string" name="APKTOOL_DUMMY_6ec">false</item>
+    <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
+    <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
+    <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
     <item type="string" name="APKTOOL_DUMMY_6f4">false</item>
     <item type="string" name="APKTOOL_DUMMY_6f5">false</item>
     <item type="string" name="APKTOOL_DUMMY_6f6">false</item>
@@ -2054,8 +2050,12 @@ Attempts Remaining :"</string>
     <item type="string" name="APKTOOL_DUMMY_7dc">false</item>
     <item type="string" name="APKTOOL_DUMMY_7dd">false</item>
     <item type="string" name="APKTOOL_DUMMY_7de">false</item>
+    <string name="permission_remember_choice">Remember</string>
     <item type="string" name="APKTOOL_DUMMY_7e0">false</item>
     <item type="string" name="APKTOOL_DUMMY_7e1">false</item>
     <item type="string" name="APKTOOL_DUMMY_7e2">false</item>
     <item type="string" name="APKTOOL_DUMMY_7e3">false</item>
+    <string name="permission">Permission</string>
+    <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
 </resources>

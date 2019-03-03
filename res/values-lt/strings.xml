@@ -1485,9 +1485,9 @@ Norėdami išjungti blokavimą, paspauskite ir laikykite mygtuką \"Neseniai ati
     <string name="permission_remember_choice">Atsiminti pasirinkimą</string>
     <string name="permission">Leidimai</string>
     <string name="pinpuk_attempts">Liko bandymų:</string>
+    <string name="usb_charging_notification_title">Prijungta krovimo režimu</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="tethered_notification_no_device_message">Nėra prijungtų įrenginių</string>
     <string name="tethered_notification_one_device_message">"Prijungta įrenginių: %1$s "</string>
     <string name="tethered_notification_multi_device_message">Prijungta įrenginių: %1$s</string>
-    <string name="usb_charging_notification_title">Prijungta krovimo režimu</string>
 </resources>

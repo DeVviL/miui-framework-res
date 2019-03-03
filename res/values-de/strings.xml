@@ -1503,9 +1503,9 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
     <string name="permission_remember_choice">Merken</string>
     <string name="permission">Erlauben</string>
     <string name="pinpuk_attempts">"Versuche verbleiben: "</string>
+    <string name="usb_charging_notification_title">In Lademodus verbunden</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
     <string name="tethered_notification_one_device_message">%1$s angeschlossenes Gerät</string>
     <string name="tethered_notification_multi_device_message">%1$s angeschlossene Geräte</string>
-    <string name="usb_charging_notification_title">In Lademodus verbunden</string>
 </resources>

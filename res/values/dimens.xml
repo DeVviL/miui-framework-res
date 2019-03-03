@@ -264,8 +264,8 @@
     <dimen name="notification_content_margin_top">-2.0dip</dimen>
     <dimen name="notification_content_margin_bottom">-2.0dip</dimen>
     <dimen name="miui_default_minimal_size_resizable_task">200.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_10f">false</item>
     <dimen name="glowpadview_glow_radius">75.0dip</dimen>
     <dimen name="glowpadview_inner_radius">15.0dip</dimen>
     <dimen name="system_bar_height">48.0dip</dimen>
-    <item type="dimen" name="APKTOOL_DUMMY_10f">false</item>
 </resources>
